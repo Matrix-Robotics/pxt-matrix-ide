@@ -1,21 +1,14 @@
-# Sample target for a Microsoft MakeCode Editor
+# MakeCode for MATRIX Boards
 
-This repo contains a sample editor built with [Microsoft MakeCode (PXT)](https://github.com/Microsoft/pxt). The editor is hosted on the GitHub pages at [http://microsoft.github.io/pxt-sample/](http://microsoft.github.io/pxt-sample/)
-
-[![Build Status](https://travis-ci.org/Microsoft/pxt-sample.svg?branch=master)](https://travis-ci.org/Microsoft/pxt-sample)
-[![Community Discord](https://img.shields.io/discord/448979533891371018.svg)](https://aka.ms/makecodecommunity)
-
-If you'd like to start your own editor, fork this repo and fix all the TODOs.
+This is an experimental code editor for Matrix boards.
 
 ## TODOs
 
-- [ ] Fork repo and setup local server (see below)
-- [ ] Update metadata in ``pxtarget.json``. Change the id, title, name, etc... to your taste.
+- [ ] Modified PXT cli local build for customized front-end layout, instead of using global release package.
+- [ ] Added libs for sensor/motor modules.
 - [ ] Update the JavaScript runtime in ``sim/simulator.ts``. If needed add additional JS library under ``sim/public/**``
 and edit ``sim/public/simulator.html`` with additional ``script`` tags.
-- [ ] Update the APIs in ``sim/api.ts`` to use your runtime.
-- [ ] Test your editor in the local server
-- [ ] run ``pgk staticpkg --gh --bump`` to upload a static version to GitHub pages.
+- [ ] Update the APIs in ``sim/api.ts`` to use runtime.
 
 ## Running locally
 
@@ -29,7 +22,7 @@ The following commands are a 1-time setup after synching the repo on your machin
 
 * install the PXT command line
 ```
-npm install -g pxt
+npm install -g pxt  // TODO, local build
 ```
 * install the dependencies
 ```
