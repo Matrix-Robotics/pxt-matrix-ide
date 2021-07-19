@@ -148,12 +148,12 @@
     "variants": {
         "nrf52840": {
             "serial": {
-                "useHF2": false
+                "useHF2": true
             },
             "compile": {
                 "openocdScript": "source [find interface/cmsis-dap.cfg]; source [find target/nrf52.cfg]",
                 "flashChecksumAddr": 0,
-                "webUSB": false,
+                "webUSB": true,
                 "flashEnd": 1007616,
                 "uf2Family": "0xada52840"
             },
@@ -218,8 +218,7 @@
         "footerLogo": "./static/logo.svg",
         "organization": "Microsoft MakeCode",
         "organizationUrl": "https://makecode.com/",
-        "organizationLogo": "./static/Microsoft-logo_rgb_c-gray-square.png",
-        "organizationWideLogo": "./static/Microsoft-logo_rgb_c-gray.png",
+        "organizationWideLogo": "./static/matrix-logo-white.png",
         "homeUrl": "https://maker.makecode.com/",
         "embedUrl": "https://maker.makecode.com/",
         "privacyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",

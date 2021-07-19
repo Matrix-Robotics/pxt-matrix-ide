@@ -1,0 +1,18 @@
+{
+    "name": "ttee",
+    "meta": {},
+    "editor": "blocksprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "target": "matrix",
+    "targetVersion": "0.1.0",
+    "id": "f8ad48a1-0357-4095-3ea1-b601f82cc897",
+    "recentUse": 1626665392,
+    "modificationTime": 1626642972,
+    "path": "ttee",
+    "blobCurrent_": false,
+    "cloudCurrent": false,
+    "saveId": null,
+    "board": "adafruit-feather-nrf52840-express",
+    "githubCurrent": false
+}

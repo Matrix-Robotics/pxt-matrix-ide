@@ -1,0 +1,18 @@
+{
+    "name": "test",
+    "meta": {},
+    "editor": "blocksprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "target": "matrix",
+    "targetVersion": "0.1.0",
+    "id": "5ea33463-4f9f-49db-43f4-7b9259ace46d",
+    "recentUse": 1626642032,
+    "modificationTime": 1626642032,
+    "path": "test",
+    "blobCurrent_": false,
+    "cloudCurrent": false,
+    "saveId": null,
+    "board": "adafruit-feather-nrf52840-express",
+    "githubCurrent": false
+}
