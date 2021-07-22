@@ -40,11 +40,18 @@
     Brand Colors
 --------------------*/
 
-@primaryColor        : @blue;
-@secondaryColor      : @grey;
+@primaryColor        : #0F4F8D;
+@secondaryColor      : #00A1E9;
+@supportColor        : #FDD000;
 
-@lightPrimaryColor   : @lightBlue;
-@lightSecondaryColor : @lightGrey;
+@lightPrimaryColor   : #808AB5;
+@lightSecondaryColor : #55C3F1;
+@lightSupportColor   : #FFE379;
+
+@darkPrimaryColor   : #003568;
+@darkSecondaryColor : #0079B0;
+@darkSupportColor   : #E3A300;
+
 
 /*******************************
      PXT Variables
@@ -54,13 +61,13 @@
    Menu
 --------------------*/
 
-@mainMenuBackground: @purple;
+@mainMenuBackground: @lightPrimaryColor;
 @mainMenuInvertedBackground: @mainMenuBackground;
-@mainMenuTutorialBackground: @orange;
+@mainMenuTutorialBackground: @lightSecondaryColor;
 
-@mainMenuBlocksJsToggleColor: @primaryColor;
+@mainMenuBlocksJsToggleColor: @lightSecondaryColor;
 
-@tutorialSelectedMenuColor: @primaryColor;
+@tutorialSelectedMenuColor: @lightSecondaryColor;
 
 /*-------------------
    Layout
@@ -92,7 +99,7 @@
 --------------------*/
 
 @blocklyToolboxColor: white;
-@trashIconColor: @primaryColor;
+@trashIconColor: @lightSecondaryColor;
 
 /*-------------------
    Blockly
