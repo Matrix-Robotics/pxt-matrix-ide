@@ -1,0 +1,77 @@
+CACHE MANIFEST
+
+CACHE:
+/pxt-matrix-ide/semantic.js
+/pxt-matrix-ide/main.js
+/pxt-matrix-ide/pxtapp.js
+/pxt-matrix-ide/typescript.js
+/pxt-matrix-ide/marked/marked.min.js
+/pxt-matrix-ide/highlight.js/highlight.pack.js
+/pxt-matrix-ide/jquery.js
+/pxt-matrix-ide/pxtlib.js
+/pxt-matrix-ide/pxtcompiler.js
+/pxt-matrix-ide/pxtpy.js
+/pxt-matrix-ide/pxtblockly.js
+/pxt-matrix-ide/pxtwinrt.js
+/pxt-matrix-ide/pxteditor.js
+/pxt-matrix-ide/pxtsim.js
+/pxt-matrix-ide/pxtembed.js
+/pxt-matrix-ide/pxtworker.js
+/pxt-matrix-ide/pxtweb.js
+/pxt-matrix-ide/blockly.css
+/pxt-matrix-ide/semantic.css
+/pxt-matrix-ide/rtlsemantic.css
+
+
+
+
+
+# blockly
+/pxt-matrix-ide/blockly/media/sprites.png
+/pxt-matrix-ide/blockly/media/click.mp3
+/pxt-matrix-ide/blockly/media/disconnect.wav
+/pxt-matrix-ide/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/pxt-matrix-ide/vs/loader.js
+/pxt-matrix-ide/vs/base/worker/workerMain.js
+/pxt-matrix-ide/vs/basic-languages/bat/bat.js
+/pxt-matrix-ide/vs/basic-languages/cpp/cpp.js
+/pxt-matrix-ide/vs/basic-languages/python/python.js
+/pxt-matrix-ide/vs/basic-languages/typescript/typescript.js
+/pxt-matrix-ide/vs/basic-languages/markdown/markdown.js
+/pxt-matrix-ide/vs/editor/editor.main.css
+/pxt-matrix-ide/vs/editor/editor.main.js
+/pxt-matrix-ide/vs/editor/editor.main.nls.js
+/pxt-matrix-ide/vs/language/json/jsonMode.js
+/pxt-matrix-ide/vs/language/json/jsonWorker.js
+/pxt-matrix-ide/vs/language/typescript/tsMode.js
+/pxt-matrix-ide/vs/language/typescript/tsWorker.js
+
+# charts
+/pxt-matrix-ide/smoothie/smoothie_compressed.js
+/pxt-matrix-ide/images/Bars_black.gif
+
+# gifjs
+/pxt-matrix-ide/gifjs/gif.js
+
+# ai
+/pxt-matrix-ide/ai.0.js
+
+/pxt-matrix-ide/worker.js
+/pxt-matrix-ide/monacoworker.js
+
+# ver Thu Jul 22 2021 21:13:56 GMT+0800 (Taipei Standard Time)
+
+# target
+/pxt-matrix-ide/docs/static/logo.svg
+/pxt-matrix-ide/docs/static/logo.svg
+/pxt-matrix-ide/docs/static/logo.svg
+/pxt-matrix-ide/docs/static/logo.svg
+/pxt-matrix-ide/docs/static/matrix-logo-white.png
+/pxt-matrix-ide/docs/static/hero.jpg
+
+/pxt-matrix-ide/target.js
+
+NETWORK:
+*
