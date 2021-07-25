@@ -67,10 +67,10 @@
 @mainMenuBackground: @primaryColor;
 @mainMenuInvertedBackground: @mainMenuBackground;
 @mainMenuTutorialBackground: @lightSecondaryColor;
-
 @mainMenuBlocksJsToggleColor: @lightSecondaryColor;
-
 @tutorialSelectedMenuColor: @lightSecondaryColor;
+
+@mainMenuHeight: 4.5rem;
 
 /*-------------------
    Layout
