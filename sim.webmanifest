@@ -1,0 +1,24 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "Matrix Robotics IDE",
+    "short_name": "matrix",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "@cdnUrl@/blob/a04e807920d22d1b050ed46ae9f5fbab9fe99892/static/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "types": "image/png"
+        },
+        {
+            "src": "@cdnUrl@/blob/6fd37891bc0929c6817c21f6a273d09ae604ce6c/static/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "types": "image/png"
+        }
+    ],
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "landscape",
+    "theme_color": "#ecf0f1"
+}
