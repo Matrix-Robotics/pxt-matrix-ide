@@ -1,0 +1,9 @@
+CACHE MANIFEST
+
+CACHE:
+/pxt-matrix-ide/pxtsim.js
+/pxt-matrix-ide/common-sim.js
+/pxt-matrix-ide/sim.js
+
+NETWORK:
+*
