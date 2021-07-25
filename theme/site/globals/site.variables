@@ -57,11 +57,14 @@
      PXT Variables
 *******************************/
 
+@logoFilter: brightness(83%) contrast(94%);
+
+
 /*-------------------
    Menu
 --------------------*/
 
-@mainMenuBackground: @lightPrimaryColor;
+@mainMenuBackground: @primaryColor;
 @mainMenuInvertedBackground: @mainMenuBackground;
 @mainMenuTutorialBackground: @lightSecondaryColor;
 
