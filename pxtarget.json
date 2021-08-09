@@ -210,22 +210,22 @@
     "appTheme": {
         "accentColor": "#ecf0f1",
         "backgroundColor": "#ffffff",
-        "logoUrl": "https://github.com/microsoft/pxt-maker",
+        "logoUrl": "https://matrix-robotics.github.io/pxt-matrix-ide/",
         "logo": "./static/logo.svg",
         "docsLogo": "./static/logo.svg",
-        "docsHeader": "Microsoft MakeCode Maker",
+        "docsHeader": "MATRIX Robotics IDE",
         "portraitLogo": "./static/logo.svg",
         "footerLogo": "./static/logo.svg",
-        "organization": "Microsoft MakeCode",
-        "organizationUrl": "https://makecode.com/",
+        "organization": "MATRIX Robotics",
+        "organizationUrl": "matrixrobotics.com",
         "organizationWideLogo": "./static/matrix-logo-white.png",
-        "homeUrl": "https://maker.makecode.com/",
-        "embedUrl": "https://maker.makecode.com/",
-        "privacyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
-        "termsOfUseUrl": "https://go.microsoft.com/fwlink/?LinkID=206977",
-        "githubUrl": "https://github.com/microsoft/pxt-maker",
-        "feedbackUrl": "https://forum.makecode.com/",
-        "betaUrl": "https://github.com/microsoft/pxt-maker",
+        "homeUrl": "https://matrix-robotics.github.io/pxt-matrix-ide/",
+        "embedUrl": "https://matrix-robotics.github.io/pxt-matrix-ide/",
+        "privacyUrl": "https://matrix-robotics.github.io/pxt-matrix-ide/",
+        "termsOfUseUrl": "https://matrix-robotics.github.io/pxt-matrix-ide/",
+        "githubUrl": "https://github.com/Matrix-Robotics/pxt-matrix-ide",
+        "feedbackUrl": "matrixrobotics.com",
+        "betaUrl": "https://github.com/Matrix-Robotics/pxt-matrix-ide",
         "boardName": "board",
         "homeScreenHero": "./static/hero.jpg",
         "debugger": true,
@@ -240,7 +240,7 @@
             },
             {
                 "name": "Forum",
-                "path": "https://forum.makecode.com"
+                "path": "https://matrix-robotics.github.io/pxt-matrix-ide/"
             },
             {
                 "name": "Boards",
@@ -260,7 +260,7 @@
             },
             {
                 "name": "GitHub",
-                "path": "https://github.com/microsoft/pxt-maker"
+                "path": "https://matrix-robotics.github.io/pxt-matrix-ide/"
             }
         ],
         "invertedMenu": false,
