@@ -1,6 +1,6 @@
 {
-    "name": "adafruit-feather-nrf52840-express",
-    "description": "Support for Adafruit Feather nrf52840 Express - beta",
+    "name": "matrix-mini",
+    "description": "Support for MATRIX Mini robot kit - beta",
     "files": [
         "README.md",
         "device.d.ts",
