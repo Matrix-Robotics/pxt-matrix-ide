@@ -13,9 +13,7 @@
     "core": true,
     "compileServiceVariant": "nrf52840",
     "dependencies": {
-        "core---nrf52": "file:../core---nrf52",
-        "pixel": "file:../pixel",
-        "buttons": "file:../buttons"
+        "core---nrf52": "file:../core---nrf52"
     },
     "public": true,
     "dalDTS": {
