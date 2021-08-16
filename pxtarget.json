@@ -26,21 +26,21 @@
         }
     },
     "runtime": {
-        "mathBlocks": true,
+        "mathBlocks": false,
         "loopsBlocks": true,
-        "logicBlocks": true,
-        "variablesBlocks": true,
-        "textBlocks": true,
-        "listsBlocks": true,
-        "functionBlocks": true,
+        "logicBlocks": false,
+        "variablesBlocks": false,
+        "textBlocks": false,
+        "listsBlocks": false,
+        "functionBlocks": false,
         "functionsOptions": {
             "useNewFunctions": true,
             "extraFunctionEditorTypes": []
         },
-        "onStartNamespace": "loops",
-        "onStartColor": "#40bf4a",
+        "onStartNamespace": "basic",
+        "onStartColor": "#00A1E9",
         "onStartWeight": 100,
-        "pauseUntilBlock": {},
+        "pauseUntilBlock": { "category": "basic", "color": "00A1E9" },
         "breakBlock": true,
         "continueBlock": true
     },
